@@ -1,3 +1,2 @@
-# Introduction
+# 学习JavaScript笔记
 
-![image-20210727114430871](README.assets/image-20210727114430871.png)

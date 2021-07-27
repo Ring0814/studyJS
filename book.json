@@ -1,14 +1,14 @@
 {
     "title": "JS学习",
+    "author" : "吴邦锐",
     "description": "JS学习",
-    "author": "sphard",
     "language": "zh-hans",
     "root": ".",
 
     "plugins": ["edit-link"],
     "pluginsConfig": {
             "edit-link": {
-                "base": "https://github.com/USER/REPO/edit/BRANCH/path/to/book",
+                "base": "https://github.com/Ring0814/REPO/edit/BRANCH/path/to/book",
                 "label": "编辑此页"
             }
     }

@@ -1,8 +1,8 @@
 # Summary
 
-* [Introduction](README.md)
+* [介绍](README.md)
 * [前言](readme.md)
-* [js第一章](part1/README.md)
+* [js基础知识](part1/README.md)
     * [第一节](part1/1.md)
     * [第二节](part1/2.md)
     * [第三节](part1/3.md)
